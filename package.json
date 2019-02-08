@@ -1,0 +1,23 @@
+{
+  "name": "centraal-academy_node",
+  "version": "1.0.0",
+  "description": "Primer paquete de node.",
+  "main": "index.js",
+  "scripts": {
+    "cowsay": "./node_modules/.bin/cowsay",
+    "cowthink": "./node_modules/.bin/cowthink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xhiomi/Centraal-academy_Node.git"
+  },
+  "author": "Xhiomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xhiomi/Centraal-academy_Node/issues"
+  },
+  "homepage": "https://github.com/Xhiomi/Centraal-academy_Node#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
