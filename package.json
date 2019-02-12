@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cowsay": "./node_modules/.bin/cowsay",
-    "cowthink": "./node_modules/.bin/cowthink"
+    "cowthink": "./node_modules/.bin/cowthink/package.json"
   },
   "repository": {
     "type": "git",
